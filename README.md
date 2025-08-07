@@ -1,9 +1,5 @@
 # Mini-Fraud-Detection-App
 
-Here's a clean, professional, and concise `README.md` you can use to summarize your fraud detection mini project for interviews or GitHub.
-
----
-
 ## 🕵️‍♂️ Fraud Detection Dashboard (Mini Project)
 
 A simple and effective **rule-based fraud detection tool** built using **Python**, **Pandas**, and **Streamlit**.
